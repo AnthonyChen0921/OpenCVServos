@@ -27,7 +27,7 @@ List:
 <br/>
 
 
-The OpenCV part python code is from https://www.youtube.com/watch?v=a7B5EZVHHkw
+The OpenCV part python code is from https://www.youtube.com/watch?v=a7B5EZVHHkw, which is not included here
 Check their website for building environment.
 
 What was going on here is that I build a connect from Raspberry Pi to ESP32 and control the servo as ESP32 is connected to the VCC.
