@@ -22,6 +22,6 @@ List:
 <br/>
 
 
-<img src="/8deaf0334d8900edfee9edaaef6469c.png" alt="Alt text" title="Optional title"  height="600" width="800">
+<img src="/8deaf0334d8900edfee9edaaef6469c.png" alt="Alt text" title="Optional title"  height="400" width="800">
 
 <br/>
