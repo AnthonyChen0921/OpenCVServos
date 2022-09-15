@@ -25,3 +25,9 @@ List:
 <img src="/8deaf0334d8900edfee9edaaef6469c.png" alt="Alt text" title="Optional title"  height="400" width="800">
 
 <br/>
+
+
+The OpenCV part python code is from https://www.youtube.com/watch?v=a7B5EZVHHkw
+Check their website for building environment.
+
+What was going on here is that I build a connect from Raspberry Pi to ESP32 and control the servo as ESP32 is connected to the VCC.
